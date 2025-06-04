@@ -40,9 +40,9 @@ This Airline Ticket Booking System is a Java Swing-based desktop application des
 
 Each plane contains:
 
-* **12 Economy Seats** (e.g., E-01 to E-12)
-* **6 Business Seats** (e.g., B-01 to B-06)
-* **7 First Class Seats** (e.g., F-01 to F-07)
+* **10 Economy Seats** (e.g., E-01 to E-10)
+* **5 Business Seats** (e.g., B-01 to B-05)
+* **5 First Class Seats** (e.g., F-01 to F-05)
 
 Seat selection depends on class and real-time availability.
 
@@ -68,7 +68,7 @@ Seat selection depends on class and real-time availability.
 
 ## 🧪 Technologies Used
 
-* Java (JDK 8+)
+* Java (JDK 19+)
 * Java Swing (NetBeans GUI)
 * JDBC (Database connectivity)
 * MySQL (phpMyAdmin)
@@ -79,7 +79,7 @@ Seat selection depends on class and real-time availability.
 * Add user login and authentication.
 * Integrate payment gateway for ticket purchases.
 * Add mobile/web interface.
-* Enable PDF export for reports.
+
 
 ## 👨‍💻 Developed By
 
