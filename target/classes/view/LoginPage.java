@@ -101,9 +101,8 @@ public class LoginPage extends javax.swing.JFrame {
             }
         });
 
-        jPasswordField1.setText("Enter Password");
-        jPasswordField1.setEnabled(false);
         jPasswordField1.setForeground(new java.awt.Color(153, 153, 153));
+        jPasswordField1.setText("Enter Password");
         jPasswordField1.addFocusListener(new java.awt.event.FocusAdapter() {
             public void focusGained(java.awt.event.FocusEvent evt) {
                 jPasswordField1FocusGained(evt);
